@@ -1,0 +1,39 @@
+* {
+  font-family: sans-serif;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  width: 85%;
+  margin: 100px auto;
+}
+
+main p {
+  width: 70%;
+  margin: 50px 170px;
+}
+
+h1, h3 {
+  font-size: 26px;
+  margin: 40px 180px;
+}
+
+ul li {
+  margin: 8px 20px;
+  list-style-type: none;
+}
+
+li {
+  margin: 20px auto;
+  width: 60%;
+}
+
+a {
+  text-decoration: none;
+}
+
+emph {
+  text-transform: uppercase;
+}

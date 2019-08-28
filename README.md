@@ -1,4 +1,4 @@
-# Start Page for Data Science and Data Analytics Wed Night Classes at TGS
+# Start Page Wed Night Classes at TGS
 
 The procedure for getting students started on Wed nights is rather complex.  They invariably take a
 long time to get it done, thus depriving themselves of their best outcomes.  I created this 
